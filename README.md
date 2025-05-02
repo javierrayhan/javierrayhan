@@ -5,7 +5,7 @@
 ### 👋 Hi, I'm Javier Rayhan  
 > Just a chill dude who loves microcontrollers, C++, and creative builds.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zv.cpp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javierrayhan28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zavieray_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javrayhan2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@zv.cpp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javierrayhan28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zavieray_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javrayhan2006@gmail.com)
 
 </div>
 
@@ -36,7 +36,8 @@
 ## ☕ Support Me!
 > You can help fuel my builds and caffeine intake
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)
+[
+![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)
 
 ---
 

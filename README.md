@@ -33,12 +33,6 @@
 
 ---
 
-## 🐍 Activity Animation
-<div align="center">
-  <img src="https://raw.githubusercontent.com/javierrayhan/javierrayhan/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## ☕ Support Me!
 > You can help fuel my builds and caffeine intake

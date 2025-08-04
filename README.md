@@ -1,4 +1,4 @@
-b## 🧭 Welcome, Explorer! I'm Javier.
+## 🧭 Welcome, Explorer! I'm Javier.
 
 I'm a frontend developer with a strong passion for embedded systems and hardware tinkering. Currently, I'm on a continuous journey to deepen my expertise, both in modern web technologies and low-level embedded development.
 

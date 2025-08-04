@@ -1,4 +1,4 @@
-## 🧭 Welcome, Explorer! I'm Javier.
+b## 🧭 Welcome, Explorer! I'm Javier.
 
 I'm a frontend developer with a strong passion for embedded systems and hardware tinkering. Currently, I'm on a continuous journey to deepen my expertise, both in modern web technologies and low-level embedded development.
 
@@ -67,7 +67,7 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 ## Here's my Contribution Snake Pet 
 <div align="center">
   <img src="https://raw.githubusercontent.com/javierrayhan/javierrayhan/output/snake.svg" alt="Snake animation" />
-</div>
+</div></br>
 
 > Just in case you want to support me and my Contribution Snake Pet.</br>
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)

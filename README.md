@@ -10,8 +10,8 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 
 ## 📌 Bio at a Glance
 
-**Student at**  
-> Telkom University, Bandung (Informatics)
+**Student at** 
+> [Telkom University](https://telkomuniversity.ac.id), Bandung (Informatics)
 
 **Focus**  
 > IoT, Embedded Systems, Frontend Development, BLE Keyboards, AI
@@ -36,8 +36,8 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 
 | | |
 |----------------------|-------------------------------------------------------------------------------------------|
-| <div align="center">![PORTOFOLIO](image/porto.jpg)</div>| This is my personal website, you’ll find my portfolio, latest projects, contact links, and more in one spot!</br> [🔗 Click for visit](javierrayhan.my.id) |
-| ![DOCUMENTATION](image/jdocs.svg)| I maintain a dedicated project site where I document my builds, experiments, and ideas in detail.</br> [🔗 Click for visit](docs.javierrayhan.my.id) |
+| <div align="center">![PORTOFOLIO](image/porto.jpg)</div>| This is my personal website, you’ll find my portfolio, latest projects, contact links, and more in one spot!</br> [🔗 Click for visit](https://javierrayhan.my.id) |
+| ![DOCUMENTATION](image/jdocs.svg)| I maintain a dedicated project site where I document my builds, experiments, and ideas in detail.</br> [🔗 Click for visit](https://docs.javierrayhan.my.id) |
 
 ---
 

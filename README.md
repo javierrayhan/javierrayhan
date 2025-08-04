@@ -36,7 +36,7 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 
 | | |
 |----------------------|-------------------------------------------------------------------------------------------|
-| ![PORTOFOLIO](image/porto.jpg)| This is my personal website, you’ll find my portfolio, latest projects, contact links, and more in one spot!</br> [🔗 Click for visit](javierrayhan.my.id) |
+| <div align="center">![PORTOFOLIO](image/porto.jpg)</div>| This is my personal website, you’ll find my portfolio, latest projects, contact links, and more in one spot!</br> [🔗 Click for visit](javierrayhan.my.id) |
 | ![DOCUMENTATION](image/jdocs.svg)| I maintain a dedicated project site where I document my builds, experiments, and ideas in detail.</br> [🔗 Click for visit](docs.javierrayhan.my.id) |
 
 ---

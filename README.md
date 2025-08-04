@@ -1,4 +1,4 @@
-## 🧭 Welcome, Explorer! I'm Javier.
+b## 🧭 Welcome, Explorer! I'm Javier.
 
 I'm a frontend developer with a strong passion for embedded systems and hardware tinkering. Currently, I'm on a continuous journey to deepen my expertise, both in modern web technologies and low-level embedded development.
 
@@ -47,9 +47,6 @@ If you're building something, learning something, or just vibing, ping me.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zv.cpp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javierrayhan28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zavieray_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javrayhan2006@gmail.com)
 
-> Just in case you want to support me and my Contribution Snake Pet.
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)
-
 ---
 
 ## 🧰 What I’m Building
@@ -57,13 +54,13 @@ If you're building something, learning something, or just vibing, ping me.
 Here’s a peek into the stuff I’ve been obsessing over lately:
 <br>
 
-##### [BLE Macro Keyboard with Layered Configs](https://github.com/javierrayhan/kato-macro-esp32)
+#### [BLE Macro Keyboard with Layered Configs](https://github.com/javierrayhan/kato-macro-esp32)
 > A custom BLE HID macro pad powered by **ESP32**, featuring 7 tactile keys and a rotary encoder, with seamless switching between 7 user-defined layers for advanced input control.
 
-##### [ATmega32 CLI-based OS](https://github.com/javierrayhan/elena_cli-os)
+#### [ATmega32 CLI-based OS](https://github.com/javierrayhan/elena_cli-os)
 > A bare-metal minimalist CLI OS, communicating over UART, packed into just **32KB** flash. Features include pin I/O control, I2C scanner, real-time clock, and a simple user management system, all without an RTOS.
 
-##### [Qurban Finance Web App](https://github.com/javierrayhan/qurbanin-alhuda)
+#### [Qurban Finance Web App](https://github.com/javierrayhan/qurbanin-alhuda)
 > A dedicated web app for the [Qurban](https://en.wikipedia.org/wiki/Udhiyah) community in my village for helping participants keep track of their savings, view contribution history, and manage their qurban preparations in a transparent, **user-friendly** way.
 
 ---
@@ -71,3 +68,6 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 <div align="center">
   <img src="https://raw.githubusercontent.com/javierrayhan/javierrayhan/output/snake.svg" alt="Snake animation" />
 </div>
+
+> Just in case you want to support me and my Contribution Snake Pet.</br>
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)

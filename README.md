@@ -63,7 +63,7 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 #### [Qurban Finance Web App](https://github.com/javierrayhan/qurbanin-alhuda)
 > A dedicated web app for the [Qurban](https://en.wikipedia.org/wiki/Udhiyah) community in my village for helping participants keep track of their savings, view contribution history, and manage their qurban preparations in a transparent, **user-friendly** way.
 
-#### [Mark-It-Down!](https://markitdown.javierrayhan.my.id)
+#### [Ink-It-Down!](https://inkitdown.javierrayhan.my.id)
 > An AI-powered Markdown editor designed for modern creators, featuring multi-tab navigation, intelligent assistance, and a real-time preview panel that helps you focus on content without distractions.
 ---
 ## Here's my Contribution Snake Pet 

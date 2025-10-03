@@ -68,7 +68,7 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 ---
 ## Here's my Contribution Snake Pet 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/javierrayhan/javierrayhan/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/<username>/<repo>/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 </div></br>
 
 > Just in case you want to support me and my Contribution Snake Pet.</br>

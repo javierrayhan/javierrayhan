@@ -115,4 +115,4 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
   <img src="https://raw.githubusercontent.com/javierrayhan/javierrayhan/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
 </div></br>
 
-> Just in case you want to support me and my Contribution Snake Pet.</br> > [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)
+> Just in case you want to support me and my Contribution Snake Pet.</br> [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)

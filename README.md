@@ -50,13 +50,22 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 <!-- Notion -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="45" height="45" alt="Notion"/>
 
+<!-- Figma -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
 
+<!-- Darktable -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Darktable_icon.svg" width="45" height="45" alt="Darktable"/>
+
+<!-- Fusion360 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fusion/fusion-original.svg" width="45" height="45" alt="Fusion360"/>
+
+<!-- EasyEda Pro -->
+<img src="https://easyeda.com/images/download-page/logo-pro.png?id=3ce54b22edda0197b5ef" width="45" height="45" alt="EasyEDAPro"/>
 </div>
 
 **Hobby**
 
-> Playing violin, experimenting with electronics, building things that shouldn’t work (but sometimes do)
+> Playing violin, experimenting with electronics, building things that shouldn’t work (but sometimes do), photography
 
 ---
 

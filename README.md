@@ -50,6 +50,8 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 <!-- Notion -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="45" height="45" alt="Notion"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+
 </div>
 
 **Hobby**

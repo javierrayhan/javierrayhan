@@ -39,7 +39,7 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
 
 <!-- Cloudflare -->
-<img src="https://cdn.worldvectorlogo.com/logos/cloudflare-1.svg" width="45" height="45" alt="Cloudflare"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cloudflare/cloudflare-original.svg" width="45" height="45" alt="Cloudflare"/>
 
 <!-- Arduino IDE -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50" alt="Arduino"/>

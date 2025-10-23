@@ -45,7 +45,7 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50" alt="Arduino"/>
 
 <!-- PlatformIO -->
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/platformio.svg" width="40" height="40" alt="PlatformIO"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/PlatformIO_logo.svg/1200px-PlatformIO_logo.svg.png?20220205132823" width="40" height="40" alt="PlatformIO"/>
 
 <!-- Notion -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="45" height="45" alt="Notion"/>

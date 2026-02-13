@@ -63,7 +63,7 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 <img src="https://easyeda.com/images/download-page/logo-pro.png?id=3ce54b22edda0197b5ef" width="45" height="45" alt="EasyEDAPro"/>
 
 <!-- KiCad -->
-<img src="https://easyeda.com/images/download-page/logo-pro.png?id=3ce54b22edda0197b5ef](https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width="45" height="45" alt="KiCad"/>
+<img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width="45" height="45" alt="KiCad"/>
 </div>
 
 **Hobby**
@@ -119,4 +119,5 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 </div></br>
 
 > Just in case you want to support me and my Contribution Snake Pet.</br> [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JavierRayhan)
+
 

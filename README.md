@@ -85,7 +85,7 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 
 If you're building something, learning something, or just vibing, ping me.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zv.cpp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javierrayhan28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zavieray_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:javrayhan2006@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zv.cpp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javierrayhan28) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zavieray_) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@javierrayhan.my.id)
 
 ---
 

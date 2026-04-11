@@ -75,9 +75,8 @@ You can get to know me better at [my personal website](https://javierrayhan.my.i
 
 ## 🌐 My Digital Stations
 
-|                                                          |                                                                                                                                                                    |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <div align="center">![PORTOFOLIO](image/porto.jpg)</div> | This is my personal website, you’ll find my portfolio, latest projects, contact links, and more in one spot!</br> [🔗 Click for visit](https://javierrayhan.my.id) |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![DOCUMENTATION](image/jdocs.svg)                        | I maintain a dedicated project site where I document my builds, experiments, and ideas in detail.</br> [🔗 Click for visit](https://docs.javierrayhan.my.id)       |
 
 ---

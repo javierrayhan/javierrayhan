@@ -5,14 +5,16 @@
 
   <p>
     <a href="https://javierrayhan.my.id">🌐 Portfolio</a> • 
-    <a href="https://docs.javierrayhan.my.id">📖 Project Docs</a> • 
-    <a href="mailto:hello@javierrayhan.my.id">✉️ Contact Me</a>
+    <a href="https://zavieray.my.id">🔗 Biolink</a> • 
+    <a href="https://docs.javierrayhan.my.id">📖 Project Docs</a> 
   </p>
 
   <p>
     <a href="https://instagram.com/zv.cpp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://linkedin.com/in/javierrayhan28"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://x.com/zavieray_"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="X"/></a>
+    <a href="mailto:hello@javierrayhan.my.id">
+    <img src="https://img.shields.io/badge/Gmail-red.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 
@@ -21,19 +23,27 @@
 ### 👨‍💻 Bio at a Glance
 
 - 🎓 **Student at:** [Telkom University](https://telkomuniversity.ac.id), Bandung (Informatics)
-- 🎯 **Focus:** IoT, Embedded Systems, Frontend Development, BLE Keyboards, AI
+- 🎯 **Focus:** IoT, Embedded Systems, Frontend Development, BLE Keyboards, Product Development
 - 🎻 **Hobbies:** Playing violin, experimenting with electronics, photography
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks** ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+**Languages & Frameworks**
 
-**Embedded & Hardware** ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat-square&logo=platformio&logoColor=%23f5822a)
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+**Embedded & Hardware**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat-square&logo=platformio&logoColor=%23f5822a" alt="PlatformIO" />
+</p>
 
 **Software & Workflow** <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" alt="VSCode" title="VSCode"/>
@@ -57,10 +67,6 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 - ⌨️ **[BLE Macro Keyboard with Layered Configs](https://github.com/javierrayhan/kato-macro-esp32)** A custom BLE HID macro pad powered by **ESP32**, featuring 7 tactile keys and a rotary encoder, with seamless switching between 7 user-defined layers for advanced input control.
 
 - 🖥️ **[ATmega32 CLI-based OS](https://github.com/javierrayhan/elena_cli-os)** A bare-metal minimalist CLI OS, communicating over UART, packed into just **32KB** flash. Features include pin I/O control, I2C scanner, RTC, and simple user management without an RTOS.
-
-- 🐐 **[Qurban Finance Web App](https://github.com/javierrayhan/qurbanin-alhuda)** A dedicated web app for the Qurban community in my village to track savings, view contribution history, and manage preparations in a transparent, user-friendly way.
-
-- 📝 **[Ink-It-Down!](https://inkitdown.javierrayhan.my.id)** An AI-powered Markdown editor designed for modern creators, featuring multi-tab navigation, intelligent assistance, and a real-time preview panel.
 
 ---
 

@@ -13,8 +13,7 @@
     <a href="https://instagram.com/zv.cpp"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://linkedin.com/in/javierrayhan28"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://x.com/zavieray_"><img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="X"/></a>
-    <a href="mailto:hello@javierrayhan.my.id">
-    <img src="https://img.shields.io/badge/Gmail-red.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:hello@javierrayhan.my.id"><img src="https://img.shields.io/badge/Email-red.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
 

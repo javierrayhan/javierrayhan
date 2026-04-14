@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🧭 Welcome, Explorer! I'm Javier.</h1>
-  <p><b>Frontend Developer | Embedded Systems Enthusiast | Hardware Tinkerer</b></p>
+  <p><b>Embedded Systems Enthusiast | Hardware Tinkerer</b></p>
   <p>I'm on a continuous journey to deepen my expertise, bridging the gap between modern web technologies and low-level embedded development. Building things that shouldn't work (but sometimes do).</p>
 
   <p>

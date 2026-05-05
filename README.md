@@ -27,37 +27,9 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-**Embedded & Hardware**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat-square&logo=platformio&logoColor=%23f5822a" alt="PlatformIO" />
-</p>
-
-**Software & Workflow** <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" alt="VSCode" title="VSCode"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vercel/vercel-original.svg" width="35" alt="Vercel" title="Vercel"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cloudflare/cloudflare-original.svg" width="35" alt="Cloudflare" title="Cloudflare"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="35" alt="Arduino" title="Arduino IDE"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="35" alt="Notion" title="Notion"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" width="35" alt="Figma" title="Figma"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fusion/fusion-original.svg" width="35" alt="Fusion360" title="Fusion360"/>
-<img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width="35" alt="KiCad" title="KiCad"/>
-<img src="https://easyeda.com/images/download-page/logo-pro.png?id=3ce54b22edda0197b5ef" width="35" alt="EasyEDAPro" title="EasyEDA Pro"/>
-
-</p>
-
----
+|                                                                                                                                                                                                                                                          Languages & Frameworks                                                                                                                                                                                                                                                          |                                                                                                        Embedded & Hardware                                                                                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Software & Workflow                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)<br>![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)<br>![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)<br>![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)<br>![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=flat-square&logo=platformio&logoColor=%23f5822a) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vercel/vercel-original.svg" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/cloudflare/cloudflare-original.svg" width="28"/><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="28"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" width="28"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fusion/fusion-original.svg" width="28"/> <img src="https://avatars.githubusercontent.com/u/3374914?s=280&v=4" width="28"/> <img src="https://easyeda.com/images/download-page/logo-pro.png?id=3ce54b22edda0197b5ef" width="28"/> |
 
 ### 🧰 What I’m Building
 

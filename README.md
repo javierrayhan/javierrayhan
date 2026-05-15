@@ -50,7 +50,7 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 ---
 
 <div align="center">
-  <p>Support my late-night coding sessions and my snake pet!</p>
+  <p>Support my late-night coding sessions!</p>
   <a href="https://paypal.me/javierrayhan">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>

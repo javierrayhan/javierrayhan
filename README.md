@@ -49,13 +49,6 @@ Here’s a peek into the stuff I’ve been obsessing over lately:
 
 ---
 
-### 🐍 GitHub Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/javierrayhan/javierrayhan/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" />
-</div>
-<br>
-
 <div align="center">
   <p>Support my late-night coding sessions and my snake pet!</p>
   <a href="https://paypal.me/javierrayhan">
